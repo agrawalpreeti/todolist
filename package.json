@@ -10,7 +10,7 @@
     "react-animations": "^1.0.0",
     "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-swipe-to-delete-component": "^0.5.1",
     "react-transition-group": "^4.0.1"
   },
